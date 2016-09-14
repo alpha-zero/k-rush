@@ -1,1 +1,1 @@
-# k-rush
+# ki-rush
